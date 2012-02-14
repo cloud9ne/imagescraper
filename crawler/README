@@ -1,0 +1,2 @@
+Just a trivial scrapy spider to list images from a particular web page; to invoke use
+scrapy crawl image -a url=<URL>
